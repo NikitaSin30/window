@@ -1,1 +1,3 @@
-import  './styles.css'
+import  "./styles.css"
+
+const a:string = "d"
