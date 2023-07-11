@@ -2,6 +2,6 @@ import  './styles.css';
 
 const a = 'd';
 
-function fsdfasdfakshdjfkldsjhfgdksfjghdsfkjghdsfkgjhdsfkjhdsfjkhdsfkjhdsfkjdhfkjfhdffgfkjdshgfaksjdfhgaskjfhgsdkjfahgsdkjfhsagdkfjhasgdfkjahsgdfjk( test ) {
+function fsdfasdfaks( test:any ) {
 
 }
